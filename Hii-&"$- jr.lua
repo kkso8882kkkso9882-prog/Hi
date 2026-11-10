@@ -2,3 +2,4 @@
 for i = 1, 10 do
 print("tast",i)
 end
+([[It works well; that's the best explanation.]]):gsub(".+",function(i)return i end)
