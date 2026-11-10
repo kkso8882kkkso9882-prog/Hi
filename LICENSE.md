@@ -1,61 +1,20 @@
-⛔ KEEP THE FUCK OUT!
+# Please Read Before Using This Repository
 
-«Fuck you! Viewing my project?!
+This project is the result of a lot of hard work, and it isn't free for the taking.
+Unless the license or the copyright holder explicitly allows it, please don't:
 
-Are you here to steal it?
+- Copy or redistribute the code or assets
+- Re-upload this work or present it as your own
+- Extract or reuse the assets in other projects
+- Reverse-engineer protected components where the law prohibits it
 
-You're not welcome here.»
+All rights remain with their respective copyright holders. No permission is granted
+beyond what the repository's license expressly states.
 
----
+If you find unauthorized use of this work, I may file DMCA takedown requests, report
+it to the hosting platform, or take further action where the law allows.
 
-🚨 WARNING TO ALL CODE-THIEVES & PARASITES
+If you'd like to use or contribute to this project, I'm happy to talk. Please
+get in touch at [yooohubyooodev@gmail.com] first.
 
-Listen up.
-
-Who gave you permission to browse this repository with the intention of stealing someone else's hard work?
-
-This project is NOT your free source of code, assets, or ideas to exploit.
-
-I see right through those who search for other people's work because they cannot create something original themselves.
-
-LET ME MAKE THIS ABSOLUTELY CLEAR:
-
-🚫 YOU ARE NOT WELCOME HERE.
-
-If you're here to steal, clone, rip, or claim someone else's work as your own, CLOSE THIS PAGE AND LEAVE.
-
----
-
-⚖️ INTELLECTUAL PROPERTY & RIGHTS NOTICE
-
-Unless explicitly permitted by the applicable license or the copyright holder, you may not:
-
-- ❌ Copy or redistribute protected code or assets.
-- ❌ Re-upload this project's work and claim it as your own.
-- ❌ Extract, rip, or misuse project assets.
-- ❌ Reverse-engineer protected components where prohibited by applicable law.
-- ❌ Use this project's materials in violation of applicable licenses or law.
-
-All rights remain with their respective copyright holders. No license or permission is granted beyond what is expressly stated in the repository's license or otherwise authorized by the rights holder.
-
-⚠️ VIOLATIONS WILL BE ADDRESSED
-
-Where appropriate, unauthorized copying, redistribution, or infringement may result in:
-
-- DMCA takedown requests or other applicable legal notices.
-- Reports to relevant hosting platforms.
-- Further legal action where justified and permitted by law.
-
-Evidence will be documented, and reports will be submitted through the appropriate channels.
-
----
-
-🖕 NOW GET OUT.
-
-This repository is for its creator and authorized contributors.
-
-Respect the work. Respect the ownership. Don't steal what you didn't create.
-
-If you cannot respect those boundaries, LEAVE.
-
-NO PERMISSION. NO MISAPPROPRIATION. NO EXCUSES.
+© 2026 [yoohubl]. All rights reserved.
