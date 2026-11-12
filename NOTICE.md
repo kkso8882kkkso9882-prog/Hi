@@ -1,44 +1,53 @@
-# Notice Regarding Use of This Repository
+# Terms of Use
 
-This project is protected by copyright. Use of the software is
-permitted only for copies obtained directly from the copyright
-holder or from the project's official repository.
+Copyright © 2026 yoohub. All rights reserved.
 
-## Permitted Use
+**Summary:** You are welcome to download and use this software as
+provided. You may not modify it, redistribute it, or reuse any part
+of it elsewhere.
 
-You may use the software, in the form distributed by the copyright
-holder, for its intended purpose.
+## 1. Permitted Use
 
-## Prohibited Conduct
+You are granted a non-exclusive, non-transferable, revocable license
+to download and use the software, in the form distributed by the
+copyright holder or through the project's official repository, for
+its intended purpose. Copies made solely as necessary to download
+and run the software are permitted.
 
-Except with the copyright holder's prior written permission, you
-may not:
+## 2. Restrictions
 
-- Copy, reproduce, or redistribute the source code or any
-  associated assets, in whole or in part;
-- Modify the software or create derivative works from it;
+Without the copyright holder's prior written permission, you may
+not:
+
+- Modify, adapt, translate, or create derivative works from the
+  software, its source code, or any of its assets;
+- Copy or redistribute the software, source code, or assets, in
+  whole or in part, except as permitted in Section 1;
 - Re-upload this work or represent it as your own;
-- Extract the assets for use in other projects; or
+- Extract assets for use in other projects;
 - Decompile, disassemble, or otherwise reverse engineer the
-  software, except to the extent that applicable law expressly
-  permits it despite this restriction.
+  software, except to the extent applicable law expressly permits
+  despite this restriction; or
+- Remove or alter this notice or any copyright or attribution
+  notice contained in the project.
 
-## Reservation of Rights
+## 3. Ownership
 
-All rights not expressly granted are reserved. No license or
-permission is granted beyond the use described above.
+The software and all associated assets remain the property of the
+copyright holder. All rights not expressly granted are reserved.
 
-## Enforcement
+## 4. Termination and Enforcement
 
-Where unauthorized use is identified, the copyright holder reserves
-the right to submit DMCA takedown notices, report the matter to the
-hosting platform, and pursue any further remedies available under
-applicable law.
+Your license ends automatically if you breach these terms. The
+copyright holder may submit DMCA takedown notices, report the matter
+to the hosting platform, and pursue any other remedies available
+under applicable law.
 
-## Permissions and Contact
+## 5. Disclaimer
 
-Requests for permission to do anything not permitted above, and
-inquiries regarding contributions, should be directed in advance to:
-yooohubyooodev@gmail.com
+The software is provided "as is", without warranty of any kind.
 
-© 2026 yoohub. All rights reserved.
+## 6. Contact
+
+To request permission for anything not permitted above, please
+contact: yooohubyooodev@gmail.com
