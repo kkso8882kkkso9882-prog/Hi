@@ -51,3 +51,9 @@ The software is provided "as is", without warranty of any kind.
 
 To request permission for anything not permitted above, please
 contact: yooohubyooodev@gmail.com
+
+
+
+
+
+## Thank you for reading this article to the end And I hope you follow the rules.
