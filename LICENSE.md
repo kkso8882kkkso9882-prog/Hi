@@ -1,20 +1,33 @@
-# Please Read Before Using This Repository
+# Notice Regarding Use of This Repository
 
-This project is the result of a lot of hard work, and it isn't free for the taking.
-Unless the license or the copyright holder explicitly allows it, please don't:
+Please read this notice before using, copying, or distributing any
+part of this repository.
 
-- Copy or redistribute the code or assets
-- Re-upload this work or present it as your own
-- Extract or reuse the assets in other projects
-- Reverse-engineer protected components where the law prohibits it
+This project is the product of substantial effort and is protected
+by copyright. Unless expressly permitted by the applicable license
+or by the copyright holder in writing, you may not:
 
-All rights remain with their respective copyright holders. No permission is granted
-beyond what the repository's license expressly states.
+- Copy or redistribute the source code or any associated assets;
+- Re-upload this work or represent it as your own;
+- Extract the assets for use in other projects; or
+- Reverse engineer protected components where such activity is
+  prohibited by applicable law.
 
-If you find unauthorized use of this work, I may file DMCA takedown requests, report
-it to the hosting platform, or take further action where the law allows.
+All rights remain with their respective copyright holders. No
+permission is granted beyond that which is expressly stated in the
+license accompanying this repository.
 
-If you'd like to use or contribute to this project, I'm happy to talk. Please
-get in touch at [yooohubyooodev@gmail.com] first.
+## Enforcement
 
-© 2026 [yoohubl]. All rights reserved.
+Where unauthorized use is identified, the copyright holder reserves
+the right to submit DMCA takedown notices, report the matter to the
+hosting platform, and pursue any further remedies available under
+applicable law.
+
+## Permissions and Contact
+
+Requests for permission to use this project, and inquiries
+regarding contributions, should be directed in advance to:
+yooohubyooodev@gmail.com
+
+© 2026 yoohub. All rights reserved.
